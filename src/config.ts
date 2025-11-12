@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://zhuwenxing.github.io/Blog/", // 你的 GitHub Pages 地址
+  website: "https://zhuwenxing.github.io/blog/", // 你的 GitHub Pages 地址
   author: "WxZhuYeah", // 你的名字
   profile: "https://github.com/zhuwenxing", // 你的 GitHub 主页
   desc: "分享技术、学习和生活的个人博客", // 博客描述
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/zhuwenxing/Blog/edit/main/",
+    url: "https://github.com/zhuwenxing/blog/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"

@@ -39,6 +39,6 @@ title: "关于我"
 
 ## 关于这个博客
 
-这个博客使用 [Astro](https://astro.build/) 和 [AstroPaper](https://github.com/satnaing/astro-paper) 主题构建，托管在 GitHub Pages 上。如果你对技术实现感兴趣，可以查看[源代码](https://github.com/zhuwenxing/Blog)。
+这个博客使用 [Astro](https://astro.build/) 和 [AstroPaper](https://github.com/satnaing/astro-paper) 主题构建，托管在 GitHub Pages 上。如果你对技术实现感兴趣，可以查看[源代码](https://github.com/zhuwenxing/blog)。
 
 感谢你的访问！希望这里的内容对你有所帮助。
