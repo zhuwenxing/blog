@@ -51,9 +51,6 @@ const backUrl = SITE.showBackButton ? `${Astro.url.pathname}` : "/";
       }
       const basePath = '/' + (pathParts.length > 0 ? pathParts.join('/') + '/' : '');
 
-      console.log('Base path:', basePath);
-      console.log('Bundle path:', `${basePath}pagefind/`);
-
       // Init pagefind ui
       const search = new PagefindUI({
         element: "#pagefind-search",
